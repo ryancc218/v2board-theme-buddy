@@ -19,7 +19,7 @@ window.config={
                 key: 'windows',
                 title: 'Windows客户端',
                 icon: 'ri:windows-fill',
-                downloadLink: 'https://www.microsoft.com/zh-cn', // Windows客户端下载地址
+                downloadLink: 'https://usc1.contabostorage.com/11f46b3a79d74536be7ea597676b7839:xboard/windows/Clash.Verge_1.6.6_x64-setup.exe', // Windows客户端下载地址
                 knowledgeLink: '/dashboard/knowledge/10', // 使用教程地址
             },
             {
