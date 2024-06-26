@@ -1,14 +1,14 @@
 window.config = {
   logo: "https://img2.imgtp.com/2024/03/11/YzU8iDJp.png", // 网站logo
-  title: "buddy免费主题", // 网站标题
-  host: "https://xxxx.com/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
+  title: "Samaritan", // 网站标题
+  host: "https://samaritan.zhangxiaobai.xyz/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
   storeHome: {
     title: "选择最适合你的订阅计划", // 套餐页标题
     description:
       "若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵", // 套餐页描述
   },
   SignPage: {
-    title: "覆盖全球的高速网络，您的高速旅程从 AirBus 开始", // 登录页标题
+    title: "覆盖全球的高速网络，您的高速旅程从 Samaritan 开始", // 登录页标题
     desc1: "High-speed network covering the whole world", // 登录页描述1
     desc2: "Your high-speed journey starts with AirBus", // 登录页描述2
     inviteCodeEdit: false, // 是否允许用户修改邀请码
@@ -20,7 +20,7 @@ window.config = {
         key: "windows",
         title: "Windows客户端",
         icon: "ri:windows-fill",
-        downloadLink: "https://www.microsoft.com/zh-cn", // Windows客户端下载地址
+        downloadLink: "https://usc1.contabostorage.com/11f46b3a79d74536be7ea597676b7839:xboard/windows/Clash.Verge_1.6.6_x64-setup.exe", // Windows客户端下载地址
         knowledgeLink: "/dashboard/knowledge/10", // 使用教程地址
       },
       {
